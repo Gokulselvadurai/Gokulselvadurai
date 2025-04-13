@@ -47,16 +47,16 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Brain Tumor Detection Using MRI](https://github.com/Gokulselvadurai/Brain-Tumor-Detection)
+### 🧠 [Brain Tumor Detection Using MRI](https://github.com/Gokulselvadurai/Brain-Tumor-Classification-Using-Machine-Learning)
 - Trained CNN model using **TensorFlow/Keras** on 7,000+ MRI scans
 - Enhanced dataset quality and compared custom model with pre-trained networks
 - Evaluated performance using confusion matrix and metrics
 
-### ⚡ [Energy Management Forecasting](https://github.com/Gokulselvadurai/Energy-Forecasting)
+### ⚡ [Energy Management Forecasting](https://github.com/Gokulselvadurai/Energy-Management-Forecasting)
 - Built machine learning pipeline to predict electricity usage trends
 - Applied ensemble models like **Random Forest** and **XGBoost**
 
-### 📋 [AI-Driven Real-Time Task Manager](https://github.com/Gokulselvadurai/AI-Task-Manager)
+### 📋 [AI-Driven Real-Time Task Manager](https://github.com/Gokulselvadurai/Real-Time-Task-Management)
 - Full-stack app using **Next.js (Frontend)** and **Gin (Go) Backend**
 - Secure login with **JWT**, with integrated **AI assistant (LLM/ChatGPT)**
 
