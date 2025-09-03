@@ -18,7 +18,7 @@
 ## 🎓 Education
 
 - **B.Tech - CSE (Cyber Physical Systems)**, VIT University  
-  _2021 – Present | CGPA: 8.21_
+  _2021 – Present | CGPA: 8.24_
 
 - **HSC**, Agasthiya Vidyalaya Hr. Sec. School  
   _2020 – 2021 | 91%_
